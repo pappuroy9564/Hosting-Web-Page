@@ -64,7 +64,7 @@ h2 {
   position: fixed;
   top: 0;
   right: 0;
-  min-height: 60vh;
+  min-height: 45vh;
   border-radius: 0 0 0 10px;
   width: 55vw;
   z-index: 999;
