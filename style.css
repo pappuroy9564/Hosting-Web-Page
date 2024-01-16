@@ -1151,7 +1151,7 @@ footer {
     flex-direction: column;
     .host-section {
       .host-boxes {
-        height: 445px;
+        height: 500px;
         padding: 5vw;
         text-align: center;
         p {
@@ -1246,7 +1246,8 @@ footer {
     font-size: 16px;
   }
   .section-5-child {
-    min-height: 90vw;
+    /* height: 116vw; */
+    padding-bottom: 5vw;
   }
 }
 /* End 767px */
